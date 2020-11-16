@@ -1,0 +1,8 @@
+*.substvars
+*debhelper*
+.debhelper
+autoreconf.*
+files
+libseccomp-dev
+libseccomp2
+tmp

@@ -1,0 +1,7 @@
+usr/bin/*
+usr/include/*
+usr/lib/*/lib*.a
+usr/lib/*/lib*.so
+usr/lib/*/pkgconfig/*.pc
+usr/share/man/man1/*
+usr/share/man/man3/*
